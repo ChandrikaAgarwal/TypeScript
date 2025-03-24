@@ -1,0 +1,1 @@
+{"root":["./app.ts","./node.ts","./src/todoApp.ts","./src/routes/todos.ts","./src/routes/models/todo.ts"],"errors":true,"version":"5.8.2"}
